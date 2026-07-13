@@ -1,0 +1,4 @@
+- Follow MVC in backend and feature-based modules in frontend.
+- Keep milk price immutable per historical entry by storing rate per litre in each milk entry.
+- Ensure all admin routes are role-protected and customer routes only expose own data.
+- Preserve clean, responsive, accessible UI patterns using Tailwind utility classes.
